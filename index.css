@@ -1,0 +1,34 @@
+nav{
+    
+    
+
+    font-family: "Raleway", sans-serif;
+}
+.nav_color{
+    color: #003879;
+    text-decoration: none;
+    
+
+}
+#nav_color{
+    color: #003879;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+#nav{
+    
+    
+
+    font-family: "Raleway", sans-serif;
+}
+#nav_color:hover{
+    color: green;
+}
+.nav_color:hover{
+    color: green;
+}
+.buttonwhatapps:hover{
+    color: #003879;
+
+}
